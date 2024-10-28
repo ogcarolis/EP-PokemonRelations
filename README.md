@@ -14,6 +14,10 @@ Arestas
 - HAS_TYPE
 - WEAKNESS
 
+## Sobre o JSON de pokemons
+
+O JSON foi criado no seguinte repositório [Pokescraper](https://github.com/Pagnottinha/Poke-Scraper/tree/v2-ep2).
+
 ## Desenvolvedores
 - Carolina Gimenez
 - Eduarda Medeiros
